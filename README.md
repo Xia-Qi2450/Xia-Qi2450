@@ -16,7 +16,7 @@ I'm a student who spends way too much time writing Python, designing websites, a
 - **[SCP_Data](https://github.com/Xia-Qi2450/SCP_Data)** — a terminal UI for reading articles straight from the SCP Wiki
 - **[ttsScript](https://github.com/Xia-Qi2450/ttsScript)** — a friendly text-to-speech script built on pyttsx3
 
-More — including works in progress — on my **[portfolio](https://xia-qi.is-a.dev)**, which is now a full boot-to-desktop web OS with its own terminal, task manager, and (if you're patient) a fake BIOS screen.
+More — including works in progress — on my **[portfolio](https://xia-qi.is-a.dev)**, which is now a full boot-to-desktop web OS with its own terminal, task manager, and (if you're patient) a fake BIOS screen. It doesn't support mobile devices so for mobile/tablet got to **[portfolioClassic](https://xia-qi.is-a.dev/v3/index.html)**
 
 ## Off duty
 

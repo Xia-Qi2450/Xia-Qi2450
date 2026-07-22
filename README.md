@@ -12,6 +12,7 @@ I'm a student who spends way too much time writing Python, designing websites, a
 ## Some things I've built
 
 - **[dogcheck](https://github.com/Xia-Qi2450/dogcheck)** — a web recreation of the DOGCHECK screen from Toby Fox's games, with URL-param overrides and a 5% chance of a DELTARUNE Ch.4 easter egg
+- **[python-war-crimes](https://github.com/Xia-Qi2450/python-war-crimes)** — a collection of the most cursed and bad Python syntax that will haunt me in 3 AM. 
 - **[robo-queue](https://github.com/Xia-Qi2450/robo-queue)** — a Python tool for robotics competition prep that reads out names with text-to-speech
 - **[SCP_Data](https://github.com/Xia-Qi2450/SCP_Data)** — a terminal UI for reading articles straight from the SCP Wiki
 - **[ttsScript](https://github.com/Xia-Qi2450/ttsScript)** — a friendly text-to-speech script built on pyttsx3

@@ -6,8 +6,9 @@ I'm a student who spends way too much time writing Python, designing websites, a
 
 ## Stack
 
-**Software:** `Python` `HTML` `CSS` `JavaScript` `Luau`
-**Hardware:** `Arduino` `3D Printing` `PC Building` `Minecraft Modding`
+**Software:** `Python` `HTML` `CSS` `JavaScript` 
+**Hardware:** `Arduino` `3D Printing` `PC Building` 
+**Game Dev:** `Minecraft Modding` `Luau(Roblox)`
 
 ## Some things I've built
 
@@ -15,13 +16,13 @@ I'm a student who spends way too much time writing Python, designing websites, a
 - **[python-war-crimes](https://github.com/Xia-Qi2450/python-war-crimes)** — a collection of the most cursed and bad Python syntax that will haunt me in 3 AM. 
 - **[robo-queue](https://github.com/Xia-Qi2450/robo-queue)** — a Python tool for robotics competition prep that reads out names with text-to-speech
 - **[SCP_Data](https://github.com/Xia-Qi2450/SCP_Data)** — a terminal UI for reading articles straight from the SCP Wiki
-- **[ttsScript](https://github.com/Xia-Qi2450/ttsScript)** — a friendly text-to-speech script built on pyttsx3
+- **[pyhash](https://github.com/Xia-Qi2450/pyhash)** — a Python executable to verify the integrity of your files using hashing.
 
 More — including works in progress — on my **[portfolio](https://xia-qi.is-a.dev)**, which is now a full boot-to-desktop web OS with its own terminal, task manager, and (if you're patient) a fake BIOS screen. It doesn't support mobile devices so for mobile/tablet go to **[portfolioClassic](https://xia-qi.is-a.dev/v3/index.html)**
 
 ## Off duty
 
-Minecraft, DELTARUNE, and ULTRAKILL take up most of my free time when I'm not at a keyboard for work. Also a fan of Hatsune Miku and Kasane Teto — no shame. Call me a weeb if you will, I don't care.
+Minecraft, DELTARUNE, and ULTRAKILL take up most of my free time when I'm not at a keyboard for work. Also a fan of Hatsune Miku and Kasane Teto, no shame. Call me a weeb if you will, I don't care.
 
 ## Connect
 

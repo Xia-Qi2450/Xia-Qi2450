@@ -1,6 +1,6 @@
 # Hi, I'm Xia Qi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=4000&pause=750&color=15D0F7&random=true&width=600&lines=Python+%E2%80%A2+HTML%2FCSS%2FJS+%E2%80%A2+Roblox+Developer;Works+on+my+machine%E2%84%A2;Has+committed+programming+war+crimes+before;Makes+stuff+on+macOS+%E2%80%A2+Professional+macOS+hater;%5Bvar_readmetypingSVGquote5%5D;AI+IS+EVERYWHERE+%E2%80%A2+CODE+IS+FUEL+%E2%80%A2+GITHUB+IS+FULL;A+Contributor+of+(ing)+Studios)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=4000&pause=750&color=15D0F7&random=true&width=600&lines=Python+%E2%80%A2+HTML%2FCSS%2FJS+%E2%80%A2+Roblox+Developer;Works+on+my+machine%E2%84%A2;Has+committed+programming+war+crimes+before;Makes+stuff+on+macOS+%E2%80%A2+Professional+macOS+hater;%5Bvar_readmetypingSVGquote5%5D;AI+IS+EVERYWHERE+%E2%80%A2+CODE+IS+FUEL+%E2%80%A2+ShitHub+IS+FULL;A+Contributor+of+(ing)+Studios)](https://git.io/typing-svg)
 
 I'm a student from Singapore who spends way too much time writing Python, designing websites, and coming up with project ideas that somehow keep getting bigger. Currently probably deep in a rabbit hole somewhere.
 
@@ -13,6 +13,8 @@ I'm a student from Singapore who spends way too much time writing Python, design
 **Game Dev:** `Minecraft Modding` `Luau(Roblox)`
 
 [![Xia-Qi2450's GitYear](https://www.gityear.com/api/card/Xia-Qi2450?theme=yellowPine)](https://www.gityear.com/Xia-Qi2450)
+
+![My Github Game](game.gif)
 
 ## Some things I've built
 

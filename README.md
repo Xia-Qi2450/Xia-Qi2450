@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=4000&pause=750&color=15D0F7&random=true&width=600&lines=Python+%E2%80%A2+HTML%2FCSS%2FJS+%E2%80%A2+Roblox+Developer;Works+on+my+machine%E2%84%A2;Has+committed+programming+war+crimes+before;Makes+stuff+on+macOS+%E2%80%A2+Professional+macOS+hater;%5Bvar_readmetypingSVGquote5%5D;AI+IS+EVERYWHERE+%E2%80%A2+CODE+IS+FUEL+%E2%80%A2+GITHUB+IS+FULL;Contributor+to+(ing)+Studios)](https://git.io/typing-svg)
 
-I'm a student from Singapore who enjoys building Python tools, web apps, and occasionally turning small ideas into projects far larger than originally intended. Currently probably deep in a rabbit hole somewhere.
+I'm a student from Singapore who enjoys building Python tools, web apps, and occasionally turning small ideas into projects far larger than originally intended. Studies at [Hwa Chong International School](https://www.hcis.edu.sg/), and is an anime fan. Currently probably deep in a rabbit hole somewhere.
 
 ## Stack
 
@@ -17,7 +17,7 @@ I'm a student from Singapore who enjoys building Python tools, web apps, and occ
 
 [![Xia-Qi2450's GitYear](https://www.gityear.com/api/card/Xia-Qi2450?theme=yellowPine)](https://www.gityear.com/Xia-Qi2450)
 
-![My ShitHub Game](game.gif)
+![My Github Game](game.gif)
 
 ## Some things I've built
 
@@ -25,7 +25,7 @@ I'm a student from Singapore who enjoys building Python tools, web apps, and occ
 - **[dogcheck](https://github.com/Xia-Qi2450/dogcheck)** — a web recreation of the DOGCHECK screen from Toby Fox's games, with URL-param overrides and a 5% chance of a DELTARUNE Ch.4 easter egg
 - **[python-war-crimes](https://github.com/Xia-Qi2450/python-war-crimes)** — a collection of the most cursed and bad Python syntax that will haunt me in 3 AM. 
 - **[robo-queue](https://github.com/Xia-Qi2450/robo-queue)** — a Python tool for robotics competition prep that reads out names with text-to-speech
-- **[SCP_Data](https://github.com/Xia-Qi2450/SCP_Data)** — a terminal UI for reading articles straight from the SCP Wiki
+- **[EulerProjectAttempts](https://github.com/Xia-Qi2450/EulerProjectAttempts)** — My attempts on the famous Project Euler problems in python, not finished but it's on the way.
 
 More — including works in progress — on my **[portfolio](https://xia-qi.is-a.dev)**, which is now a full boot-to-desktop web OS with its own terminal, task manager, and (if you're patient) a fake BIOS screen. It doesn't support mobile devices so for mobile/tablet go to **[portfolioClassic](https://xia-qi.is-a.dev/v3/index.html)**
 
@@ -41,7 +41,7 @@ Contributed towards **(ing) Studios**, check out their open-source projects [her
 
 ## Off duty
 
-Minecraft, DELTARUNE, and ULTRAKILL take up most of my free time when I'm not at a keyboard for work. Also a fan of Hatsune Miku and Kasane Teto, no shame. Call me a weeb if you will, I don't care.
+Minecraft, DELTARUNE, and ULTRAKILL take up most of my free time when I'm not at a keyboard for work. Also a fan of Hatsune Miku, Kasane Teto and just voice synth music in general, no shame. A huge anime fan at heart, call me a weeb if you will, I don't care.
 
 ### Minecraft
 

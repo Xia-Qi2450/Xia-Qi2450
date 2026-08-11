@@ -2,6 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=4000&pause=750&color=15D0F7&random=true&width=600&lines=Python+%E2%80%A2+HTML%2FCSS%2FJS+%E2%80%A2+Roblox+Developer;Works+on+my+machine%E2%84%A2;Has+committed+programming+war+crimes+before;Makes+stuff+on+macOS+%E2%80%A2+Professional+macOS+hater;%5Bvar_readmetypingSVGquote5%5D;AI+IS+EVERYWHERE+%E2%80%A2+CODE+IS+FUEL+%E2%80%A2+GITHUB+IS+FULL;Contributor+to+(ing)+Studios)](https://git.io/typing-svg)
 
+[![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Learning-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Vue](https://img.shields.io/badge/Vue-Experimenting-green?logo=vuedotjs)](https://vuejs.org/)
+[![Java](https://img.shields.io/badge/Java-JVM%20Enjoyer-orange?logo=openjdk)](https://www.java.com/)
+
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Xia-Qi2450&show_icons=true&theme=tokyonight)](https://githubreadmestatsfast.vercel.app/)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xia-Qi2450&layout=compact&theme=tokyonight)](https://githubreadmestatsfast.vercel.app/)
+
 I'm a student from Singapore who enjoys building Python tools, web apps, and occasionally turning small ideas into projects far larger than originally intended. Studies at [Hwa Chong International School](https://www.hcis.edu.sg/), and is an anime fan. Currently probably deep in a rabbit hole somewhere.
 
 ## Stack

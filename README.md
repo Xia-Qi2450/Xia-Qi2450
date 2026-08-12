@@ -31,23 +31,23 @@ I'm a student from Singapore who enjoys building Python tools, web apps, and occ
 
 - **[pyhash](https://github.com/Xia-Qi2450/pyhash)** — a Python executable to verify the integrity of your files using hashing.
 
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xia-Qi2450&repo=pyhash&theme=tokyonight)
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xia-Qi2450&repo=pyhash&theme=tokyonight)](https://github.com/Xia-Qi2450/pyhash)
   
 - **[dogcheck](https://github.com/Xia-Qi2450/dogcheck)** — a web recreation of the DOGCHECK screen from Toby Fox's games, with URL-param overrides and a 5% chance of a DELTARUNE Ch.4 easter egg.
 
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xia-Qi2450&repo=dogcheck&theme=tokyonight)
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xia-Qi2450&repo=dogcheck&theme=tokyonight)](https://github.com/Xia-Qi2450/dogcheck)
   
 - **[python-war-crimes](https://github.com/Xia-Qi2450/python-war-crimes)** — a collection of the most cursed and bad Python syntax that will haunt me in 3 AM.
 
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xia-Qi2450&repo=python-war-crimes&theme=tokyonight)
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xia-Qi2450&repo=python-war-crimes&theme=tokyonight)](https://github.com/Xia-Qi2450/python-war-crimes)
   
 - **[quintupletSort](https://github.com/Xia-Qi2450/quintupletSort)** — a Python meme sorting algorithm referencing the romance anime **The Quintessential Quintuplets**.
 
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xia-Qi2450&repo=quintupletSort&theme=tokyonight)
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xia-Qi2450&repo=quintupletSort&theme=tokyonight)](https://github.com/Xia-Qi2450/quintupletSort)
   
 - **[EulerProjectAttempts](https://github.com/Xia-Qi2450/EulerProjectAttempts)** — My attempts on the famous Project Euler problems in python, not finished but it's on the way.
 
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xia-Qi2450&repo=EulerProjectAttempts&theme=tokyonight)
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xia-Qi2450&repo=EulerProjectAttempts&theme=tokyonight)](https://github.com/Xia-Qi2450/EulerProjectAttempts)
 
 More — including works in progress — on my **[portfolio](https://xia-qi.is-a.dev)**, which is now a full boot-to-desktop web OS with its own terminal, task manager, and (if you're patient) a fake BIOS screen. It doesn't support mobile devices so for mobile/tablet go to **[portfolioClassic](https://xia-qi.is-a.dev/v3/index.html)**
 

@@ -56,9 +56,17 @@ Contributed towards **(ing) Studios**, check out their open-source projects [her
 
 **Featured**:
 
-- **[TurtleBrowse](https://github.com/ingStudiosOfficial/turtlebrowse)** - A **Material You** themed JVM based **agentic** browser made in JCEF.
+- **[Turtlebrowse](https://github.com/ingStudiosOfficial/turtlebrowse)** - A **Material You** themed JVM based **agentic** browser made in JCEF.
+
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=ingStudiosOfficial&repo=turtlebrowse&theme=tokyonight)](https://github.com/ingStudiosOfficial/turtlebrowse)
+  
 - **[Calculite](https://github.com/ingStudiosOfficial/calculite)** - A simple, **Material You** themed **calculator** with unit conversion (Beta). You can also install Calculite as a web app on your devices.
+
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=ingStudiosOfficial&repo=calculite&theme=tokyonight)](https://github.com/ingStudiosOfficial/calculite)
+  
 - **[Markdowned](https://github.com/ingStudiosOfficial/markdowned)** - A simple web based **Markdown editor** with **agentic** AI features.
+
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=ingStudiosOfficial&repo=markdowned&theme=tokyonight)](https://github.com/ingStudiosOfficial/markdowned)
 
 
 ## Off duty
